@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004782262487",
+    "project_id": "ajaira--chat",
+    "storage_bucket": "ajaira--chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004782262487:android:aaafb0fd13628f42bbb892",
+        "android_client_info": {
+          "package_name": "com.ismail.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004782262487-28l34e68m8svpkko2ekifg12m255gsmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfsQz_mDfR6MESvGEuPeNtCKt3emTmwKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004782262487-28l34e68m8svpkko2ekifg12m255gsmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,16 +1,10 @@
 # chat_app
 
-A new Flutter project.
+It's a pretty simple chat app.Actually it is my very first chat app that i have ever developed.So i tried to make it as simple as i can.I used firebase for backend.Right now only sign up, sign in , firebase authentication ,group chat are implemented.I have plan to add more features in future.
 
-## Getting Started
+Screenshots:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo1648319471](https://user-images.githubusercontent.com/73167399/160252714-dc10ff0b-d4a2-4c3a-b00a-84877b2522f4.jpeg)
+![photo1648319471 (1)](https://user-images.githubusercontent.com/73167399/160252717-afb1a891-7af9-45e2-ac06-fc075bd7d3f5.jpeg)
